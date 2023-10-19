@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .red-text {
+    color: red;
+  }
+  .blue-text {
+    color: blue;
+  }
+  .green-text {
+    color: green;
+  }
+  .yellow-text {
+    color: yellow;
+  }
+  .orange-text {
+    color: orange;
+  }
+  .purple-text {
+    color: purple;
+  }
+  .pink-text {
+    color: pink;
+  }
+  .brown-text {
+    color: brown;
+  }
+  .gray-text {
+    color: gray;
+  }
+  .black-text {
+    color: black;
+  }
+  .white-text {
+    color: white;
+    background-color: black; /* To make white text visible on a black background */
+  }
+  .cyan-text {
+    color: cyan;
+  }
+</style>
+</head>
+<body>
+
+<p class="red-text">Red Text</p>
+<p class="blue-text">Blue Text</p>
+<p class="green-text">Green Text</p>
+<p class="yellow-text">Yellow Text</p>
+<p class="orange-text">Orange Text</p>
+<p class="purple-text">Purple Text</p>
+<p class="pink-text">Pink Text</p>
+<p class="brown-text">Brown Text</p>
+<p class="gray-text">Gray Text</p>
+<p class="black-text">Black Text</p>
+<p class="white-text">White Text on Black Background</p>
+<p class="cyan-text">Cyan Text</p>
+
+</body>
+</html>
